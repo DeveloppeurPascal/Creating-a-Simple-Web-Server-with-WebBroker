@@ -1,17 +1,14 @@
-# Delphi-Projects-Template
+# Creating a Simple Web Server with WebBroker (DelphiCon 2023)
 
 [Cette page en français.](LISEZMOI.md)
 
-A git template for my Delphi (or others) projects.
-
-This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.
+Demo program for session "Creating a Simple Web Server with WebBroker" of [DelphiCon 2023](https://lp.embarcadero.com/DelphiCon2023?utm_source=DeveloppeurPascal&utm_medium=email&utm_content=Webinar-230202-DelphiCon) online conference from 14 to 16 February 2023.
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Install
 
-To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
-Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis GitHub.
+To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker).
 
 **Warning :** if the project has submodules dependencies they wont be in the ZIP file. You'll have to download them manually.
 
@@ -19,12 +16,11 @@ Pour télécharger ce projet il est recommandé de passer par "git" mais vous po
 
 This project depends on :
 
-* project 1
-* project 2
+* none
 
 ## How to ask a new feature, report a bug or a security issue ?
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker) and [open a new issue](https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker/issues).
 
 If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
 

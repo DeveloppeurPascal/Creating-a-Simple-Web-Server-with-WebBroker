@@ -1,16 +1,14 @@
-# Delphi-Projects-Template
+# Création d'un serveur web simple avec WebBroker (DelphiCon 2023)
 
 [This page in english.](README.md)
 
-Un modèle de dépôt git pour mes projets Delphi (ou autres).
-
-Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.
+Programme de démonstration pour la session "Creating a Simple Web Server with WebBroker" de la conférence [DelphiCon 2023](https://lp.embarcadero.com/DelphiCon2023?utm_source=DeveloppeurPascal&utm_medium=email&utm_content=Webinar-230202-DelphiCon) du 14 au 16 février 2023.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Installation
 
-Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker).
 
 **Attention :** si le projet utilise des dépendances sous forme de sous modules ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
 
@@ -18,12 +16,11 @@ Pour télécharger ce projet il est recommandé de passer par "git" mais vous po
 
 Ce dépôt de code dépend des dépôts suivants :
 
-* project 1
-* project 2
+* aucun
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
 
