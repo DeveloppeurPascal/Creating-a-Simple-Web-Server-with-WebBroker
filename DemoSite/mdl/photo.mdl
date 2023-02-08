@@ -1,0 +1,32 @@
+<html>
+
+<head>
+<title>!$titre$!</title>
+</head>
+
+<body bgcolor="!$coul_fond$!" text="!$coul_texte$!">
+
+<h1 align="center">!$titre$!</h1>
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="middle" align="center"><a href="!$nom_page_precedente$!"><img border="0" src="btn/gauche.gif" width="54" height="54"></a></td>
+    <td width="34%" valign="middle" align="center"><a href="index.html"><img border="0" src="btn/haut.gif" width="54" height="54"></a></td>
+    <td width="33%" valign="middle" align="center"><a href="!$nom_page_suivante$!"><img border="0" src="btn/droite.gif" width="54" height="54"></a></td>
+  </tr>
+</table>
+<p align=center><img="btn/barre.gif"></p>
+
+<p align="center"><img border="0" src="img/!$nom_photo$!" width="!$photo_larg$!" height="!$photo_haut$!"></p>
+<p align="center">!$commentaire$!</p>
+
+<p align=center><img="btn/barre.gif"></p>
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="middle" align="center"><a href="!$nom_page_precedente$!"><img border="0" src="btn/gauche.gif" width="54" height="54"></a></td>
+    <td width="34%" valign="middle" align="center"><a href="index.html"><img border="0" src="btn/haut.gif" width="54" height="54"></a></td>
+    <td width="33%" valign="middle" align="center"><a href="!$nom_page_suivante$!"><img border="0" src="btn/droite.gif" width="54" height="54"></a></td>
+  </tr>
+</table>
+</body>
+
+</html>

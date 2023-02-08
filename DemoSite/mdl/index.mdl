@@ -1,0 +1,31 @@
+<html>
+
+<head>
+<title>!$titre$!</title>
+</head>
+
+<body bgcolor="!$coul_fond$!" text="!$coul_texte$!">
+
+<h1 align="center">!$titre$!</h1>
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="middle" align="center"><a href="credit.html"><img border="0" src="btn/gauche.gif" alt="crédits"></a></td>
+    <td width="34%" valign="middle" align="center"><a href="index.html"><img border="0" src="btn/haut.gif"></a></td>
+    <td width="33%" valign="middle" align="center"><a href="browser.html"><img border="0" src="btn/droite.gif" alt="planche contact"></a></td>
+  </tr>
+</table>
+<p align=center><img="btn/barre.gif"></p>
+
+<p align="center">!$commentaire_accueil$!</p>
+
+<p align=center><img="btn/barre.gif"></p>
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="middle" align="center"><a href="credit.html"><img border="0" src="btn/gauche.gif" alt="crédits"></a></td>
+    <td width="34%" valign="middle" align="center"><a href="index.html"><img border="0" src="btn/haut.gif"></a></td>
+    <td width="33%" valign="middle" align="center"><a href="browser.html"><img border="0" src="btn/droite.gif" alt="planche contact"></a></td>
+  </tr>
+</table>
+</body>
+
+</html>

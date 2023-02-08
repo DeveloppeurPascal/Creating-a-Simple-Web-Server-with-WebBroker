@@ -1,0 +1,1 @@
+This web site has been generated from Dall-E pictures with Photo Album Generator available as an open source software at https://github.com/DeveloppeurPascal/photo-album-generator for the DelphiCon 2023 online conference.
