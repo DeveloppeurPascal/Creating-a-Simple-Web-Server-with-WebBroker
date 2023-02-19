@@ -2,7 +2,7 @@
 
 [Cette page en français.](LISEZMOI.md)
 
-Demo program for session "Creating a Simple Web Server with WebBroker" of [DelphiCon 2023](https://lp.embarcadero.com/DelphiCon2023?utm_source=DeveloppeurPascal&utm_medium=email&utm_content=Webinar-230202-DelphiCon) online conference from 14 to 16 February 2023.
+Demo program for session "[Creating a Simple Web Server with WebBroker]5https://serialstreameur.fr/delphicon-2023-creating-a-simple-web-server-with-webbroker.html°" of [DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y) online conference from 14 to 16 February 2023.
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 

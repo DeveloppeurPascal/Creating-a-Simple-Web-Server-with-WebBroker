@@ -2,7 +2,7 @@
 
 [This page in english.](README.md)
 
-Programme de démonstration pour la session "Creating a Simple Web Server with WebBroker" de la conférence [DelphiCon 2023](https://lp.embarcadero.com/DelphiCon2023?utm_source=DeveloppeurPascal&utm_medium=email&utm_content=Webinar-230202-DelphiCon) du 14 au 16 février 2023.
+Programme de démonstration pour la session "[Creating a Simple Web Server with WebBroker](https://serialstreameur.fr/delphicon-2023-creating-a-simple-web-server-with-webbroker.html)" de la conférence [DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y) du 14 au 16 février 2023.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
