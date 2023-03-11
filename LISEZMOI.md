@@ -1,10 +1,20 @@
-# Création d'un serveur web simple avec WebBroker (DelphiCon 2023)
+# Création d'un serveur web simple avec WebBroker ([DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y))
 
 [This page in english.](README.md)
 
-Programme de démonstration pour la session "[Creating a Simple Web Server with WebBroker](https://serialstreameur.fr/delphicon-2023-creating-a-simple-web-server-with-webbroker.html)" de la conférence [DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y) du 14 au 16 février 2023.
+Programme de démonstration utilisé lors d'une présentation des fonctionnalités de [WebBroker](https://docwiki.embarcadero.com/RADStudio/en/Using_Web_Broker_Index) utilisé comme un serveur web de site statique.
+
+Vous trouverez ici les codes sources en Delphi du projet WebBroker et le site statique réalisé à l'aide de [Photo Album Generator](https://github.com/DeveloppeurPascal/photo-album-generator) à partir d'une série d'images de "développeur Delphi" générées par [Dall-E 2](https://openai.com/product/dall-e-2).
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+
+## Rediffusions de la présentation
+
+Cette présentation a été enregistrée en anglais pour la [DelphiCon 2023](https://www.youtube.com/playlist?list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y) du 14 au 16 février 2023 puis faite en direct en français le 9 mars 2023. Les rediffusions sont disponibles sur [Serial Streameur](https://serialstreameur.fr) et sur les chaînes YouTube d'[Embarcadero](https://www.youtube.com/@EmbarcaderoTech) ou de [Barsnten](https://www.youtube.com/@BarnstenFrance).
+
+* en anglais, d'une durée de 15 minutes, [sur Serial Streameur](https://serialstreameur.fr/delphicon-2023-creating-a-simple-web-server-with-webbroker.html) ou [sur YouTube](https://www.youtube.com/watch?v=KDtwMm46h8I&list=PLwUPJvR9mZHgfgjbmKTSqeFRn5fIiM4_y&index=3)
+
+* en français, d'une durée de 1 heure, [sur Serial Streameur](https://serialstreameur.fr/utiliser-webbroker-comme-serveur-web-pour-un-site-statique.html) ou [sur YouTube](https://www.youtube.com/watch?v=gopEDps5JJ8)
 
 ## Installation
 
